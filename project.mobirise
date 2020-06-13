@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "vakapi.mobirise",
-    "currentPage": "yhdistys.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -672,7 +672,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/background16.jpg",
+                "image": "@PROJECT_PATH@/assets/images/background10.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/background1-800x533.jpg",
                 "alt": "",
                 "title": "",
@@ -2641,11 +2641,11 @@
           "_name": "content6",
           "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"40\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\">  \n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/vakapi-logo-nak-760.png\" alt=\"vakapi\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">Kaakkois-Suomen vapaa-ajankalastajapiiri on perustettu 12.11.2005. Toimialueena on Kymenlaakso, Päijät-Häme sekä osa Itä-Uusimaata.\n<br>Piiri on Suomen Vapaa-ajankalastajien Keskusjärjestö ry:n – Finlands Fritidsfiskares Centralorganisation rf:n jäsen.\n<br><br><b>Kaakkois-Suomen vapaa-ajankalastajapiiri ry tarkoituksena on…\n</b><br>-yhdistää toiminta-alueensa vapaa-ajankalastajien yhdistyksiä ja muita luonnon virkistyskäyttöä, kalavesien hoitoa ja kalastuskulttuuria edistäviä yhteisöjä ja toimia yhdyssiteenä niiden ja keskusjärjestön välillä\n<br>-kehittää vapaa-ajan kalataloutta, kalavesien hoitoa ja kalastuskulttuuria\n<br>-huolehtia alueensa vapaa-ajankalastajien ja –kalastuksen, sekä muiden luonnon virkistyskäyttäjien eduista.<br>\n<br><br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s1qtkYQsKh",
+          "_anchor": "content6-2a",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content6-2a"
+          "_params": {}
         }
       ]
     }
