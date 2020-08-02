@@ -1379,7 +1379,7 @@ section.lazy-placeholder:after {
   backface-visibility: visible;
 }
 .cid-rIdep4WhcM {
-  padding-top: 90px;
+  padding-top: 120px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/pm-uistelu-2020-1200-1200x628.png");
 }
@@ -1389,9 +1389,9 @@ section.lazy-placeholder:after {
   font-weight: 300;
 }
 .cid-rIdep4WhcM .step {
-  width: 50px;
-  height: 50px;
-  font-size: 25px;
+  width: 56px;
+  height: 56px;
+  font-size: 28px;
   border-radius: 50%;
   border: 2px solid #0446d8;
   color: #0446d8;
@@ -1407,12 +1407,12 @@ section.lazy-placeholder:after {
   position: relative;
 }
 .cid-rIdep4WhcM .separline:after {
-  top: 54px;
-  left: 23px;
+  top: 60px;
+  left: 26px;
   position: absolute;
   content: "";
   width: 2px;
-  height: calc(100% - (25px + 4px) * 2);
+  height: calc(100% - (28px + 4px) * 2);
   background-color: #0446d8;
 }
 @media (max-width: 767px) {
