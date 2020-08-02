@@ -1157,7 +1157,7 @@ section.lazy-placeholder:after {
 .cid-rIdd5nazWR {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #232323;
+  background-color: #0c3189;
 }
 .cid-rIdd5nazWR .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -1225,42 +1225,6 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-rIddp6P7zB {
-  padding-top: 75px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rIddp6P7zB .counter-container {
-  color: #767676;
-}
-.cid-rIddp6P7zB .counter-container ol {
-  margin-bottom: 0;
-  counter-reset: myCounter;
-}
-.cid-rIddp6P7zB .counter-container ol li {
-  margin-bottom: 1rem;
-}
-.cid-rIddp6P7zB .counter-container ol li {
-  list-style: none;
-  padding-left: .5rem;
-}
-.cid-rIddp6P7zB .counter-container ol li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  counter-increment: myCounter;
-  content: counter(myCounter);
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 40px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #0446d8;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-}
 .cid-rKicJmWAdJ {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1292,7 +1256,7 @@ section.lazy-placeholder:after {
 .cid-rIddKgOWRf {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #0c3189;
 }
 .cid-rIddKgOWRf .mbr-section-subtitle {
   color: #767676;
@@ -1377,56 +1341,6 @@ section.lazy-placeholder:after {
   -moz-backface-visibility: visible;
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
-}
-.cid-rIdep4WhcM {
-  padding-top: 120px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/pm-uistelu-2020-1200-1200x628.png");
-}
-.cid-rIdep4WhcM .mbr-section-subtitle {
-  color: #767676;
-  text-align: center;
-  font-weight: 300;
-}
-.cid-rIdep4WhcM .step {
-  width: 56px;
-  height: 56px;
-  font-size: 28px;
-  border-radius: 50%;
-  border: 2px solid #0446d8;
-  color: #0446d8;
-}
-@media (max-width: 767px) {
-  .cid-rIdep4WhcM .step {
-    width: 48px;
-    height: 48px;
-    font-size: 24px;
-  }
-}
-.cid-rIdep4WhcM .separline {
-  position: relative;
-}
-.cid-rIdep4WhcM .separline:after {
-  top: 60px;
-  left: 26px;
-  position: absolute;
-  content: "";
-  width: 2px;
-  height: calc(100% - (28px + 4px) * 2);
-  background-color: #0446d8;
-}
-@media (max-width: 767px) {
-  .cid-rIdep4WhcM .separline:after {
-    top: 52px;
-    left: 22px;
-    height: calc(100% - 56px);
-  }
-}
-.cid-rIdep4WhcM .mbr-step-title {
-  color: #ffffff;
-}
-.cid-rIdep4WhcM .mbr-step-text {
-  color: #ffffff;
 }
 .cid-rIdetiQXcd {
   padding-top: 60px;
