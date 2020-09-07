@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "vakapi.mobirise",
-    "currentPage": "ajankohtaista.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -673,7 +673,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/background16.jpg",
+                "image": "@PROJECT_PATH@/assets/images/background10.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/background1-800x533.jpg",
                 "alt": "",
                 "title": "",
@@ -686,7 +686,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/background27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/background21.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/background2-800x533.jpg",
                 "alt": "",
                 "title": "",
